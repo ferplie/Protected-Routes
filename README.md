@@ -1,3 +1,11 @@
+Note: 
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Note: I am new to React, and struggled with React Routes V6. 
+The code in this repo is a combination of two Youtube video's.
+The basic router setup code I used from Steve Griffith's channel: https://www.youtube.com/watch?v=uBLRO5eUmQw&t=3s
+The protected route code I used from Lester Fernandez's channel:https://youtu.be/0x8Dap2EIVE
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
